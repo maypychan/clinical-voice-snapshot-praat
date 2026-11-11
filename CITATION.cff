@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this script, please cite it as below."
+type: software
+title: "Clinical Voice Snapshot: a guided Praat script for acoustic voice measures"
+version: 0.1.0
+date-released: 2026-11-10
+license: MIT
+authors:
+  - family-names: Chan
+    given-names: May Pik Yu
+repository-code: "https://github.com/maypychan/clinical-voice-snapshot-praat"
+keywords:
+  - Praat
+  - voice
+  - voice disorders
+  - acoustics
+  - speech-language pathology
+  - CPPS
+  - CAPE-V
+  - CAPE-Vr
+  - clinical voice assessment
