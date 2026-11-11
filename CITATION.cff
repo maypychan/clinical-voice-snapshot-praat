@@ -8,6 +8,7 @@ license: MIT
 authors:
   - family-names: Chan
     given-names: May Pik Yu
+    orcid: "https://orcid.org/0000-0003-2365-4093"
 repository-code: "https://github.com/maypychan/clinical-voice-snapshot-praat"
 keywords:
   - Praat
