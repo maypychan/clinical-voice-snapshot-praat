@@ -17,6 +17,10 @@ and gives you a plain-text summary you can paste into a report.
 - **Transparent.** Every setting is saved with the results. A measure that
   fails is reported with a reason, never as 0.
 
+**New to the script? Start with the step-by-step tutorial:**
+<https://maypychan.github.io/clinical-voice-snapshot-praat/>
+(also in this repository as [docs/index.html](docs/index.html)).
+
 *Who it is for:* speech-language pathologists (SLPs/SLTs), voice clinics,
 clinical researchers, and students. *Who it is not for:* it measures this
 fixed protocol only (a sustained /a/, short sentences, and conversational
@@ -39,6 +43,7 @@ last dialog before the analysis. The JSON is always written.
 
 ## Contents
 
+- [Tutorial](https://maypychan.github.io/clinical-voice-snapshot-praat/)
 - [Installation](#installation)
 - [Running the script](#running-the-script)
 - [What is measured](#what-is-measured)
